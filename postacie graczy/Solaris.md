@@ -9,4 +9,4 @@ rasa: Tiefling
 ![solaris.jpg](../media/solaris.jpg)
 ## Uwaga spojlery, prywatne rzeczy związane z Solaris, proszę nie patrzeć
 
-[Backstory](../SOLARIS/Backstory.md#)
+[Backstory](../zzzz%2520prywatne%2520solaris/Backstory.md#)
