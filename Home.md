@@ -20,12 +20,9 @@ Kontynent [Etea](./lokacje/Etea.md)
 - [Dębowy Gaj](./lokacje/D%C4%99bowy%20Gaj.md)
 - [Wielka Równina](./lokacje/Wielka%20R%C3%B3wnina.md)
 
-
-## Panteon
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">20</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td></tr></tbody></table></div>
-
 ## Sprawy niedokończone
 [Questy](./Questy.md)
+
 ## Sesje
 - [33_06072024 Krew Krolka, Koszmary Gaju](./sesje/33_06072024%20Krew%20Krolka,%20Koszmary%20Gaju.md)
 - [32_26052024 Super Reaktywna Akcja Kałowo Anty-kłusownicza](./sesje/32_26052024%20Super%20Reaktywna%20Akcja%20Ka%C5%82owo%20Anty-k%C5%82usownicza.md)
@@ -54,5 +51,31 @@ Kontynent [Etea](./lokacje/Etea.md)
 - [3_06122021 Artefakt i początek bandytów](./sesje/3_06122021%20Artefakt%20i%20pocz%C4%85tek%20bandyt%C3%B3w.md)
 - [2_29112021 Sen Arameji i jaskinie](./sesje/2_29112021%20Sen%20Arameji%20i%20jaskinie.md)
 - [1_22112021 Początek przygody](./sesje/1_22112021%20Pocz%C4%85tek%20przygody.md)
+
+
+
+## Panteon
+| File                            | Patronat                              |
+| ------------------------------- | ------------------------------------- |
+| [Etunia](./bogowie/Etunia.md)   | magia, wiedza tajemna                 |
+| [Mentia](./bogowie/Mentia.md)   | światło                               |
+| [Grazdia](./bogowie/Grazdia.md) | ziemia, bogactwo, majątek, kapitalizm |
+| [Nolios](./bogowie/Nolios.md)   | woda                                  |
+| [Cenas](./bogowie/Cenas.md)     | wiedza, tworzenie                     |
+| [Nelene](./bogowie/Nelene.md)   | życie, natura                         |
+| [Ostus](./bogowie/Ostus.md)     | powietrze, wolność                    |
+| [Votyx](./bogowie/Votyx.md)     | śmierć                                |
+| [Sinir](./bogowie/Sinir.md)     | ogień, rzemieślnictwo                 |
+| [Solis](./bogowie/Solis.md)     | słońce, nieszczęśliwa miłość          |
+| [Wydon](./bogowie/Wydon.md)     | księżyc, nieszczęśliwa miłość         |
+| [Alanis](./bogowie/Alanis.md)   | elfy, magia, fey                      |
+| [Dernos](./bogowie/Dernos.md)   | demon, śmierć, rozkład                |
+| [Ignaruk](./bogowie/Ignaruk.md) | demon, ogień                          |
+| [Mava](./bogowie/Mava.md)       | ciemność                              |
+| [Gloria](./bogowie/Gloria.md)   | zwycięstwo                            |
+| [Biorr](./bogowie/Biorr.md)     | wojna                                 |
+| [Danja](./bogowie/Danja.md)     | muzyka                                |
+| [Chirva](./bogowie/Chirva.md)   | smoki                                 |
+| [Gidrec](./bogowie/Gidrec.md)   | krasnoludy                            |
 
 
