@@ -9,15 +9,15 @@ Kontynent [Etea](./lokacje/Etea.md)
 
 ## Zwierzęta
 - [Baśka](./zwierz%C4%85tka/Ba%C5%9Bka.md)
-- [Buczek](./zwierz%C4%85tka/Buczek.md)
-- [Brykiet](./zwierz%C4%85tka/Brykiet.md)
 - [Bielinek](./zwierz%C4%85tka/Bielinek.md)
+- [Brykiet](./zwierz%C4%85tka/Brykiet.md)
+- [Buczek](./zwierz%C4%85tka/Buczek.md)
 
 ## Lokalizacje
-- [Tursel](./lokacje/Tursel.md)
 - [Ruiny Świątyni Alanis](./lokacje/Ruiny%20%C5%9Awi%C4%85tyni%20Alanis.md)
-- [Perestrand](./lokacje/Perestrand.md)
+- [Tursel](./lokacje/Tursel.md)
 - [Dębowy Gaj](./lokacje/D%C4%99bowy%20Gaj.md)
+- [Perestrand](./lokacje/Perestrand.md)
 - [Wielka Równina](./lokacje/Wielka%20R%C3%B3wnina.md)
 
 ## Sprawy niedokończone
@@ -26,7 +26,7 @@ Kontynent [Etea](./lokacje/Etea.md)
 ## Sesje
 - [33_06072024 Krew Krolka, Koszmary Gaju](./sesje/33_06072024%20Krew%20Krolka,%20Koszmary%20Gaju.md)
 - [32_26052024 Super Reaktywna Akcja Kałowo Anty-kłusownicza](./sesje/32_26052024%20Super%20Reaktywna%20Akcja%20Ka%C5%82owo%20Anty-k%C5%82usownicza.md)
-- [31_07042024 DOKOŃCZYĆ](./sesje/31_07042024%20DOKO%C5%83CZY%C4%86.md)
+- [31_07042024 Serce Bestii i Wóz Handlarzy](./sesje/31_07042024%20Serce%20Bestii%20i%20W%C3%B3z%20Handlarzy.md)
 - [30_16032024 Podróż do Kilrock](./sesje/30_16032024%20Podr%C3%B3%C5%BC%20do%20Kilrock.md)
 - [29_03032024 Serce Bestii](./sesje/29_03032024%20Serce%20Bestii.md)
 - [28_25112023 Operacja Rybia Menda](./sesje/28_25112023%20Operacja%20Rybia%20Menda.md)
@@ -57,25 +57,25 @@ Kontynent [Etea](./lokacje/Etea.md)
 ## Panteon
 | File                            | Patronat                              |
 | ------------------------------- | ------------------------------------- |
-| [Etunia](./bogowie/Etunia.md)   | magia, wiedza tajemna                 |
-| [Mentia](./bogowie/Mentia.md)   | światło                               |
-| [Grazdia](./bogowie/Grazdia.md) | ziemia, bogactwo, majątek, kapitalizm |
-| [Nolios](./bogowie/Nolios.md)   | woda                                  |
-| [Cenas](./bogowie/Cenas.md)     | wiedza, tworzenie                     |
-| [Nelene](./bogowie/Nelene.md)   | życie, natura                         |
-| [Ostus](./bogowie/Ostus.md)     | powietrze, wolność                    |
-| [Votyx](./bogowie/Votyx.md)     | śmierć                                |
-| [Sinir](./bogowie/Sinir.md)     | ogień, rzemieślnictwo                 |
-| [Solis](./bogowie/Solis.md)     | słońce, nieszczęśliwa miłość          |
-| [Wydon](./bogowie/Wydon.md)     | księżyc, nieszczęśliwa miłość         |
+| [Biorr](./bogowie/Biorr.md)     | wojna                                 |
 | [Alanis](./bogowie/Alanis.md)   | elfy, magia, fey                      |
+| [Cenas](./bogowie/Cenas.md)     | wiedza, tworzenie                     |
+| [Chirva](./bogowie/Chirva.md)   | smoki                                 |
+| [Danja](./bogowie/Danja.md)     | muzyka                                |
 | [Dernos](./bogowie/Dernos.md)   | demon, śmierć, rozkład                |
+| [Etunia](./bogowie/Etunia.md)   | magia, wiedza tajemna                 |
+| [Gidrec](./bogowie/Gidrec.md)   | krasnoludy                            |
+| [Gloria](./bogowie/Gloria.md)   | zwycięstwo                            |
+| [Grazdia](./bogowie/Grazdia.md) | ziemia, bogactwo, majątek, kapitalizm |
 | [Ignaruk](./bogowie/Ignaruk.md) | demon, ogień                          |
 | [Mava](./bogowie/Mava.md)       | ciemność                              |
-| [Gloria](./bogowie/Gloria.md)   | zwycięstwo                            |
-| [Biorr](./bogowie/Biorr.md)     | wojna                                 |
-| [Danja](./bogowie/Danja.md)     | muzyka                                |
-| [Chirva](./bogowie/Chirva.md)   | smoki                                 |
-| [Gidrec](./bogowie/Gidrec.md)   | krasnoludy                            |
+| [Mentia](./bogowie/Mentia.md)   | światło                               |
+| [Nelene](./bogowie/Nelene.md)   | życie, natura                         |
+| [Nolios](./bogowie/Nolios.md)   | woda                                  |
+| [Ostus](./bogowie/Ostus.md)     | powietrze, wolność                    |
+| [Sinir](./bogowie/Sinir.md)     | ogień, rzemieślnictwo                 |
+| [Solis](./bogowie/Solis.md)     | słońce, nieszczęśliwa miłość          |
+| [Votyx](./bogowie/Votyx.md)     | śmierć                                |
+| [Wydon](./bogowie/Wydon.md)     | księżyc, nieszczęśliwa miłość         |
 
 
