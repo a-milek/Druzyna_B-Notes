@@ -14,11 +14,11 @@ Kontynent [Etea](./lokacje/Etea.md)
 - [Buczek](./zwierz%C4%85tka/Buczek.md)
 
 ## Lokalizacje
-- [Ruiny Świątyni Alanis](./lokacje/Ruiny%20%C5%9Awi%C4%85tyni%20Alanis.md)
-- [Tursel](./lokacje/Tursel.md)
 - [Dębowy Gaj](./lokacje/D%C4%99bowy%20Gaj.md)
 - [Perestrand](./lokacje/Perestrand.md)
+- [Ruiny Świątyni Alanis](./lokacje/Ruiny%20%C5%9Awi%C4%85tyni%20Alanis.md)
 - [Wielka Równina](./lokacje/Wielka%20R%C3%B3wnina.md)
+- [Tursel](./lokacje/Tursel.md)
 
 ## Sprawy niedokończone
 [Questy](./Questy.md)
@@ -32,8 +32,8 @@ Kontynent [Etea](./lokacje/Etea.md)
 - [28_25112023 Operacja Rybia Menda](./sesje/28_25112023%20Operacja%20Rybia%20Menda.md)
 - [27_05112023 Teleportacje i pakt z Ignarukiem](./sesje/27_05112023%20Teleportacje%20i%20pakt%20z%20Ignarukiem.md)
 - [26_26092023 Celebracje u Veppera](./sesje/26_26092023%20Celebracje%20u%20Veppera.md)
-- [24_23042023 Tornado Ognia i Dusz](./sesje/24_23042023%20Tornado%20Ognia%20i%20Dusz.md)
 - [25_23042023 Kultyści](./sesje/25_23042023%20Kulty%C5%9Bci.md)
+- [24_23042023 Tornado Ognia i Dusz](./sesje/24_23042023%20Tornado%20Ognia%20i%20Dusz.md)
 - [23_12032023 W środku dzielnicy](./sesje/23_12032023%20W%20%C5%9Brodku%20dzielnicy.md)
 - [22_08012023 Przerwanie rytuału](./sesje/22_08012023%20Przerwanie%20rytua%C5%82u.md)
 - [21_28122022 Przygotowanie do wkroczenia do dzielnicy](./sesje/21_28122022%20Przygotowanie%20do%20wkroczenia%20do%20dzielnicy.md)
@@ -63,11 +63,11 @@ Kontynent [Etea](./lokacje/Etea.md)
 | [Chirva](./bogowie/Chirva.md)   | smoki                                 |
 | [Danja](./bogowie/Danja.md)     | muzyka                                |
 | [Dernos](./bogowie/Dernos.md)   | demon, śmierć, rozkład                |
+| [Gloria](./bogowie/Gloria.md)   | zwycięstwo                            |
 | [Etunia](./bogowie/Etunia.md)   | magia, wiedza tajemna                 |
 | [Gidrec](./bogowie/Gidrec.md)   | krasnoludy                            |
-| [Gloria](./bogowie/Gloria.md)   | zwycięstwo                            |
-| [Grazdia](./bogowie/Grazdia.md) | ziemia, bogactwo, majątek, kapitalizm |
 | [Ignaruk](./bogowie/Ignaruk.md) | demon, ogień                          |
+| [Grazdia](./bogowie/Grazdia.md) | ziemia, bogactwo, majątek, kapitalizm |
 | [Mava](./bogowie/Mava.md)       | ciemność                              |
 | [Mentia](./bogowie/Mentia.md)   | światło                               |
 | [Nelene](./bogowie/Nelene.md)   | życie, natura                         |
