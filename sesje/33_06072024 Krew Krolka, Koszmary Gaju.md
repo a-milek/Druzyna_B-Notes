@@ -29,7 +29,7 @@ Przeprowadzamy Pogrzeb Krolka i oprawiamy konia na mięso i skóry.
 
 [Zaufanie](../postacie%20graczy/Zaufanie.md) miał biedne, dosyć krótkie dzieciństwo, matka umarła na smoczą ospę. 
 
-[Druna](../postacie%20graczy/Druna.md) opowiada o [Tomie](../NPC/Tom.md). Wystąpił pewien wypadek przy pracy, który spowodował, że wywalili Toma z [Pipidełka](../lokacje/Pipide%C5%82ko.md). Druna dała podrobione rzeczy na stragan matki Toma.
+[Druna](../postacie%20graczy/Druna.md) opowiada o [Tomie](../NPC/Tom%20Muzeltof.md). Wystąpił pewien wypadek przy pracy, który spowodował, że wywalili Toma z [Pipidełka](../lokacje/Pipide%C5%82ko.md). Druna dała podrobione rzeczy na stragan matki Toma.
 
 Druidzi mówią nam jakimi zwierzętami byśmy byli:
 [Ashtar](../postacie%20graczy/Ashtar.md)- wiewiórka

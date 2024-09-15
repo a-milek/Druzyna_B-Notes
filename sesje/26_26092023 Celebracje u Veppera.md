@@ -21,7 +21,7 @@ Otrzymujemy Bag of Holding!!
 Spotykamy [Szymona](../NPC/Szymon.md) i [Kamila](../NPC/Kamil.md) . [Szymona](../NPC/Szymon.md) chce robić zapiekanki, podoba nam się ten pomysł. 
 [Varudir](../postacie%20graczy/Varudir.md) opiekował sie siostrą
 [Druna](../postacie%20graczy/Druna.md):
-Znajomy [Tom](../NPC/Tom.md)- chce ją pobić
+Znajomy [Tom Muzeltof](../NPC/Tom%20Muzeltof.md)- chce ją pobić
 Nazwisko- Muzeltof. 
 Są powiązani ze [Smarnecka](../organizacje/Smarnecka.md)- organizacją
 
