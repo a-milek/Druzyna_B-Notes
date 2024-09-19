@@ -43,7 +43,7 @@ Najbiedniejsza dzielnica stała się ogniskiem kultystów. Noszą oni czarne sza
 
 [Embo](../NPC/Embo.md) nam mówi, że nasza odporność na ogień może nie działać zbyt dobrze, kultyści mają problemy z panowaniem nad swoimi mocami. 
 
-[Arameja](../postacie%20graczy/Arameja.md) chce [Magmowy Kamień](../przedmioty/Magmowy%20Kamie%C5%84.md), który rzekomo mają kultyści
+[Arameia](../postacie%20graczy/Arameia.md) chce [Magmowy Kamień](../przedmioty/Magmowy%20Kamie%C5%84.md), który rzekomo mają kultyści
 
 LEVELUJEMY
 ##### ⚔ WALKA 
