@@ -17,7 +17,7 @@ Budzimy się, sufit w domku ma kolor wschodu słońca. Na polanie rozwijają si�
 
 Znajdujemy się na podobnej polanie co w poprzednim miejscu, ale na środku jest ogromny, skrzący się portal. Przechodzimy przez niego.
 
-Znowu rzucamy k100. [Zaufanie](../postacie%20graczy/Zaufanie.md) zostaje okradziony przez jakiegoś małego skrzata, który kradnie mu linę. [Ashtar](../postacie%20graczy/Ashtar.md) zyskuje ułatwienie na trzy godziny na rzuty obronne przeciwko zaklęciom. [Arameja](../postacie%20graczy/Arameja.md) otrzymuje magiczny dzban z herbatą. [Varudir](../postacie%20graczy/Varudir.md) zamienia się w sukulenta. [Solaris](../postacie%20graczy/Solaris.md) przywołuje elfa, który jest przyjazny i pełni rolę naszego hype-mana, nazwaliśmy go [Or Lando](../NPC/Or%20Lando.md). Wygląda jak Orlando Bloom, ale w stylu kibola. ROBI FIKOŁKA.
+Znowu rzucamy k100. [Zaufanie](../postacie%20graczy/Zaufanie.md) zostaje okradziony przez jakiegoś małego skrzata, który kradnie mu linę. [Ashtar](../postacie%20graczy/Ashtar.md) zyskuje ułatwienie na trzy godziny na rzuty obronne przeciwko zaklęciom. [Arameia](../postacie%20graczy/Arameia.md) otrzymuje magiczny dzban z herbatą. [Varudir](../postacie%20graczy/Varudir.md) zamienia się w sukulenta. [Solaris](../postacie%20graczy/Solaris.md) przywołuje elfa, który jest przyjazny i pełni rolę naszego hype-mana, nazwaliśmy go [Or Lando](../NPC/Or%20Lando.md). Wygląda jak Orlando Bloom, ale w stylu kibola. ROBI FIKOŁKA.
 
 Pojawiamy się na łące z kilkoma drzewami. Przed nami znajduje się jezioro, dżungla, a pośrodku niej ogromny wulkan. Na niebie latają wielkie, łyse ptako-jaszczurki. Jesteśmy otoczeni przez dinozaury.
 
@@ -27,7 +27,7 @@ Pojawiamy się na łące z kilkoma drzewami. Przed nami znajduje się jezioro, d
 
 [Ashtar](../postacie%20graczy/Ashtar.md) próbuje wspiąć się na jednego i okiełznać go. Początkowo nie udaje mu się, ale później tak. Po walce z drugim, pierwszy znika. [Sana](../NPC/Sana.md) twierdzi, że [Kula Zniewolenia](../przedmioty/Kula%20Zniewolenia.md) znajduje się w jeziorze. [Or Lando](../NPC/Or%20Lando.md) się z nami żegna. Wchodzimy na jezioro, a potem zaczynamy się w nim zanurzać.
 
-Rzucamy k100. [Solaris](../postacie%20graczy/Solaris.md) musi przypomnieć Mateuszowi, jak będzie rzucać obrażenia od zaklęć. W rękach [Varudir](../postacie%20graczy/Varudir.md) pojawia się szminka, która pozwala powtórzyć rzut na charyzmę. [Arameja](../postacie%20graczy/Arameja.md) i [Ashtar](../postacie%20graczy/Ashtar.md) również mają tę samą możliwość.
+Rzucamy k100. [Solaris](../postacie%20graczy/Solaris.md) musi przypomnieć Mateuszowi, jak będzie rzucać obrażenia od zaklęć. W rękach [Varudir](../postacie%20graczy/Varudir.md) pojawia się szminka, która pozwala powtórzyć rzut na charyzmę. [Arameia](../postacie%20graczy/Arameia.md) i [Ashtar](../postacie%20graczy/Ashtar.md) również mają tę samą możliwość.
 
 Pojawiamy się w gęstym lesie. Jest ciemno, ale otaczają nas fluorescencyjne rośliny, których nie da się zebrać. Idziemy za [Saną](../NPC/Sana.md), las powoli się przerzedza.
 
@@ -40,7 +40,7 @@ Trafiamy na małą polanę z kolumnami i statuą kobiety ze złożonymi rękami 
 > "Można flankować z kozą?"  
 > **Barameja**, **Bashtar**, **Barameeeja**
 
-[Arameja](../postacie%20graczy/Arameja.md) zamienia się w lwa. Pojawiają się magiczne odbicia elfa.
+[Arameia](../postacie%20graczy/Arameia.md) zamienia się w lwa. Pojawiają się magiczne odbicia elfa.
 
 > Baufanie brzmi jak **Bałwanie**
 
@@ -50,6 +50,6 @@ Trafiamy na małą polanę z kolumnami i statuą kobiety ze złożonymi rękami 
 
 Gramy w "What the fuck is up with that."
 - [Varudir](../postacie%20graczy/Varudir.md) jest trochę zainteresowany [Runim](../NPC/Runi.md).
-- [Arameja](../postacie%20graczy/Arameja.md) ma rodziców, ale ich nie zna.
+- [Arameia](../postacie%20graczy/Arameia.md) ma rodziców, ale ich nie zna.
 - Klan [Varudira](../postacie%20graczy/Varudir.md) zaatakował stwór (chyba duży), ale Varudir pamięta go jako małego.
 - [Zaufanie](../postacie%20graczy/Zaufanie.md) złamał obietnicę i wystąpił z wojska po tym, jak wybili jego kompanów.
