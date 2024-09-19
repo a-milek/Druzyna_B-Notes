@@ -17,7 +17,7 @@ Kolejny dzień: las, dwa smoki przelatują nad nami. Nie wierzą że oddamy im j
 ##### ⚔ 2 zielone smoki
 Są odporne na wystraszanie się. mały smok się wykluwa i duże smoki odlatują z nim.
 Obozujemy, [Solaris](../postacie%20graczy/Solaris.md) robi pułapki na zwierzęta a potem o nich zapomina.
-[Arameje](../postacie%20graczy/Arameja.md) spotkało nieszczęście. Czuła się słabo ale porozmawiała z mistrzem (?)
+[Arameje](../postacie%20graczy/Arameia.md) spotkało nieszczęście. Czuła się słabo ale porozmawiała z mistrzem (?)
 Chce siły, wiedzy i magii
 [Varudir](../postacie%20graczy/Varudir.md) lubi nad wyraz nad wyrażać wyrazy.
 
@@ -35,7 +35,7 @@ Kolejny dzień. Zbliżamy się do wzniesienia. Na polanie jest miasto. Małe cha
 
 Gałązka którą znaleźliśmy u wiedźmy to Rod of Druidcraft.
 
-Trafiamy do karczmy "[Młode Koty](../lokacje/M%C5%82ode%20Koty.md)"- jest okropnie obskurna. Karczmarz to Goliat z dużym brzuchem w crop topie. Panowie zostają się najebać. [Arameje](../postacie%20graczy/Arameja.md), [Solaris](../postacie%20graczy/Solaris.md) i [Varudir](../postacie%20graczy/Varudir.md) idą do innej tawerny- "[Spokojny Ślimak](../lokacje/Spokojny%20%C5%9Alimak.md)". [Stajnie w Perestrand](../lokacje/Stajnie%20w%20Perestrand.md) znajdą sie tuż obok- Stajenny- półelf w czarnych włosach i brodzie. Zostawiamy konie i wóz. Wracamy do karczmy. Po jakimś czasie [Ashtar](../postacie%20graczy/Ashtar.md) i [Zaufanie](../postacie%20graczy/Zaufanie.md) trafiają do nas, kładziemy sie spać.
+Trafiamy do karczmy "[Młode Koty](../lokacje/M%C5%82ode%20Koty.md)"- jest okropnie obskurna. Karczmarz to Goliat z dużym brzuchem w crop topie. Panowie zostają się najebać. [Arameje](../postacie%20graczy/Arameia.md), [Solaris](../postacie%20graczy/Solaris.md) i [Varudir](../postacie%20graczy/Varudir.md) idą do innej tawerny- "[Spokojny Ślimak](../lokacje/Spokojny%20%C5%9Alimak.md)". [Stajnie w Perestrand](../lokacje/Stajnie%20w%20Perestrand.md) znajdą sie tuż obok- Stajenny- półelf w czarnych włosach i brodzie. Zostawiamy konie i wóz. Wracamy do karczmy. Po jakimś czasie [Ashtar](../postacie%20graczy/Ashtar.md) i [Zaufanie](../postacie%20graczy/Zaufanie.md) trafiają do nas, kładziemy sie spać.
 LEVELUJEMY
 
 
