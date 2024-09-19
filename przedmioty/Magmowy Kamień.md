@@ -15,7 +15,7 @@ tags:
 Odebrany kultystom [Ignaruka](../bogowie/Ignaruk.md)
 
 ## Co się z nim stało?
-[Arameja](../postacie%20graczy/Arameja.md) go ma
+[Arameia](../postacie%20graczy/Arameia.md) go ma
 
 
 
