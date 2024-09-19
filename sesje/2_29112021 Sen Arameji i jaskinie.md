@@ -9,7 +9,7 @@ lokalizacje:
   - "[Jaskinia bandytów](../lokacje/Jaskinia%20bandyt%C3%B3w.md)"
 postacie:
   - "[kapłankę Alicję](../NPC/kap%C5%82anka%20Alicja.md)"
-  - "[Bertranda Rylanda](../SOLARIS/Bertrand%20Ryland.md)"
+  - "[Bertranda Rylanda](../zzzz%20prywatne%20solaris/Bertrand%20Ryland.md)"
   - "[Hanny](../NPC/Hanna.md)"
   - "[Tobiasza](../NPC/Tobiasz.md)"
   - "[Szef bandytów](../NPC/Szef%20bandyt%C3%B3w.md)"
@@ -23,7 +23,7 @@ Rano Arameja znika. Na Rynku jest tłoczno. W Świątyni Nelene spotykamy kapła
 ## Recap ostatniej sesji
 Podczas naszego pobytu w karczmie, zostaje ona zaatakowana przez 4 bandytów. Po ich pokonaniu przenosimy ich ciała do ratusza gdzie dowiadujemy się w wiedźmie, która nawiedza i rozwala miasto. Jedynym miejscem które aktywnie omija jest świątynia Nelene w której aktualnie znajduje się ogromna ilość zainfekowanych ludzi. Poznajemy Andrzeja a potem atakuje nas kamienny golem.
 ## Log
-[Arameja](../postacie%20graczy/Arameja.md) rano się nie budzi. Idziemy do [Świątyni Nelene](../lokacje/%C5%9Awi%C4%85tynia%20Nelene.md). Wszystkie roślinki, które widzieliśmy poprzedniego dnia, zniknęły bez śladu. Na [Rynku w Tursel](../lokacje/Rynek%20w%20Tursel.md) odbywa się targ. Jest strasznie dużo ludzi, gwar. W świątyni spotykamy [kapłankę Alicję](../NPC/kap%C5%82anka%20Alicja.md) - brunetkę o niebieskich oczach. [Solaris](../postacie%20graczy/Solaris.md) otrzymuje rzeczy od [Bertranda Rylanda](../SOLARIS/Bertrand%20Ryland.md). Idziemy z Alicją do karczmy, żeby uleczyła Arameję, jednak ona zniknęła. Varudir rozmawia z gołębiami, niewiele się dowiaduje. Arameja najprawdopodobniej uciekła przez okno. Na [Zaufanie](../postacie%20graczy/Zaufanie.md) odbija się jakiś czarnowłosy pijak.
+[Arameia](../postacie%20graczy/Arameia.md) rano się nie budzi. Idziemy do [Świątyni Nelene](../lokacje/%C5%9Awi%C4%85tynia%20Nelene.md). Wszystkie roślinki, które widzieliśmy poprzedniego dnia, zniknęły bez śladu. Na [Rynku w Tursel](../lokacje/Rynek%20w%20Tursel.md) odbywa się targ. Jest strasznie dużo ludzi, gwar. W świątyni spotykamy [kapłankę Alicję](../NPC/kap%C5%82anka%20Alicja.md) - brunetkę o niebieskich oczach. [Solaris](../postacie%20graczy/Solaris.md) otrzymuje rzeczy od [Bertranda Rylanda](../zzzz%20prywatne%20solaris/Bertrand%20Ryland.md). Idziemy z Alicją do karczmy, żeby uleczyła Arameję, jednak ona zniknęła. Varudir rozmawia z gołębiami, niewiele się dowiaduje. Arameja najprawdopodobniej uciekła przez okno. Na [Zaufanie](../postacie%20graczy/Zaufanie.md) odbija się jakiś czarnowłosy pijak.
 
 Wracamy na [Rynek w Tursel](../lokacje/Rynek%20w%20Tursel.md), dalej szukamy Arameji. Gość sprzedający owcze skóry ma wisiorek emanujący magią. Kosztuje on dużo. Nikt nie widział "różowej pani", oprócz starszej pani - [Hanny](../NPC/Hanna.md) - widziała Arameję idącą na wschód. Zostaje nam przekazany list od bandytów, gdzie znajduje się lokalizacja jaskini - kryjówki.
 
@@ -39,7 +39,7 @@ Znajdujemy książkę spellcastera, nic istotnego w niej nie ma.
 
 Poznajemy [Tobiasza](../NPC/Tobiasz.md), zakopanego bandytę, który wręcza Solaris miksturę leczenia. Mówi nam, że [Szef bandytów](../NPC/Szef%20bandyt%C3%B3w.md) wziął skądś magiczne zdolności, a istotniejsze osoby w gangu musiały podpisać z nim jakiś kontrakt. Osoba, która przekazała nam list - "[Twarz](../NPC/Twarz.md)" - prawa ręka Szefa, potrafi się wśliznąć wszędzie i umie iluzje. Od Tobiasza otrzymujemy mapę do siedziby bandytów i plany twierdzy.
 
-Wracamy do [Starej Żaby](../lokacje/Stara%20%C5%BBaba.md), [Arameja](../postacie%20graczy/Arameja.md) siedzi przy stole.
+Wracamy do [Starej Żaby](../lokacje/Stara%20%C5%BBaba.md), [Arameia](../postacie%20graczy/Arameia.md) siedzi przy stole.
 
 
 

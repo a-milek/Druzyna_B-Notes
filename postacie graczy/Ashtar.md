@@ -13,6 +13,8 @@ rasa: Elf
 - Rodzice nie żyją
 - Chodził  do specjalnej akademii
 - Ashtar moze nie jest jego prawdziwym imieniem.
+- zaadoptował dziecko o imieniu [Paweł](../NPC/Pawe%C5%82.md) wraz z [Zaufaniem](./Zaufanie.md).  
+- jak był młodszy to miał cegłę przyjaciela
 
 
 ## Lore

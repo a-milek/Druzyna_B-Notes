@@ -15,7 +15,7 @@ Wybuch w oddali, krzyki. Szambo- z niego wystaje skórzany worek z ciałami.
 
 Idziemy dalej, mały szczyl siedzi w beczce. Szło dużo ludzi w stronę [Meliny](../lokacje/Melina.md). Oddajemy go do gościa który mieszka niedaleko beczki.
 
-Kiedy przechodzimy przez dzielnice widzimy pole bitwy, pioruny, wybuchy, cegła rozbryzga. [Arameja](../postacie%20graczy/Arameja.md) dostaje w głowę kamieniem. Nad naszymi głowami pojawia się ogromne magiczne Tornado składające sie z ognia, duszy. Może zwiastować coś niedobrego. Idziemy w stronę [Cmentarza](../lokacje/Cmentarz%20w%20Perestrand.md). Pojedynce dusze są wysysane i dołączane do tornada.
+Kiedy przechodzimy przez dzielnice widzimy pole bitwy, pioruny, wybuchy, cegła rozbryzga. [Arameia](../postacie%20graczy/Arameia.md) dostaje w głowę kamieniem. Nad naszymi głowami pojawia się ogromne magiczne Tornado składające sie z ognia, duszy. Może zwiastować coś niedobrego. Idziemy w stronę [Cmentarza](../lokacje/Cmentarz%20w%20Perestrand.md). Pojedynce dusze są wysysane i dołączane do tornada.
 Ruiny kaplicy. Kapłan ubrany w szatę z glifami, runami.
 ##### ⚔ Czarodziejo-kapłan 
 [Solaris](../postacie%20graczy/Solaris.md) znajduje [Magmowy Kamień](../przedmioty/Magmowy%20Kamie%C5%84.md)
@@ -26,6 +26,6 @@ Idziemy dalej, w naszą stronę biegnie 5 osób 2 magów i 1 kusznik.
 Tuż przed [Meliną](../lokacje/Melina.md) zbierają nas na odprawę przed wkroczeniem. 3 kozaków. [Andrzej](../NPC/Andrzej%20od%20leczenia.md) jest od leczenia. Jeden gość nie żyje- jego dusza nie chce do niego wrócić. 
 
 [Magmowy Kamień](../przedmioty/Magmowy%20Kamie%C5%84.md)- komponent do większej całości, potrafi łączyć artefakty. Osoba ucząca Arameje magii powiedziała, że go potrzebuje.
-[Solaris](../postacie%20graczy/Solaris.md) obiecuje [Arameji](../postacie%20graczy/Arameja.md), że odda jej kamień po zakończeniu walki z kultystami.
+[Solaris](../postacie%20graczy/Solaris.md) obiecuje [Arameji](../postacie%20graczy/Arameia.md), że odda jej kamień po zakończeniu walki z kultystami.
 
 
