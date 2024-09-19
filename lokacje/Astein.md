@@ -18,16 +18,16 @@ lokalizacja:
 ## Ważniejsze miasta
 - [Perestrand](./Perestrand.md)
 - [Poset](./Poset.md)
-- [Kilrock](./Kilrock.md)
+- [Killrock](./Killrock.md)
 
 
 
 
 - [Dębowy Gaj](./D%C4%99bowy%20Gaj.md)
-- [Kilrock](./Kilrock.md)
 - [Millstone](./Millstone.md)
 - [Perestrand](./Perestrand.md)
 - [Pipidełko](./Pipide%C5%82ko.md)
 - [Poset](./Poset.md)
 - [Thornville](./Thornville.md)
 - [Wielka Równina](./Wielka%20R%C3%B3wnina.md)
+- [Killrock](./Killrock.md)
