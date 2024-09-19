@@ -1,5 +1,5 @@
 
-- [ ] Zawieźć Artefakt kryształ do [Kilrock](./lokacje/Kilrock.md) od [Godlbuta](./NPC/Goldbut.md)- 2000 sz/osoby
+- [ ] Zawieźć Artefakt kryształ do [Killrock](./lokacje/Killrock.md) od [Godlbuta](./NPC/Goldbut.md)- 2000 sz/osoby
 - [ ] Powiadomić jego [wujka Tormaka](./NPC/wujek%20Tormak.md) o śmierci Krolka.
 
 
