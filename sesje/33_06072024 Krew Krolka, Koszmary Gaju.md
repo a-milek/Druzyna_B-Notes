@@ -25,7 +25,7 @@ Mamy powiadomić jego [wujka Tormaka](../NPC/wujek%20Tormak.md) o śmierci.
 
 Przeprowadzamy Pogrzeb Krolka i oprawiamy konia na mięso i skóry.
 
-[Druna](../postacie%20graczy/Druna.md) otrzymuje [Glif](../przedmioty/Glif%20Leczenia.md) od Druidów. Na końcowej kolacji stypie rozmawiamy. 
+[Druna](../postacie%20graczy/Druna.md) otrzymuje [Glif](../przedmioty/Glif%20Odnowienia.md) od Druidów. Na końcowej kolacji stypie rozmawiamy. 
 
 [Zaufanie](../postacie%20graczy/Zaufanie.md) miał biedne, dosyć krótkie dzieciństwo, matka umarła na smoczą ospę. 
 
@@ -35,7 +35,7 @@ Druidzi mówią nam jakimi zwierzętami byśmy byli:
 [Ashtar](../postacie%20graczy/Ashtar.md)- wiewiórka
 [Zaufanie](../postacie%20graczy/Zaufanie.md)- dzik
 [Solaris](../postacie%20graczy/Solaris.md)- nietoperz
-[Arameja](../postacie%20graczy/Arameja.md)- kaczka
+[Arameia](../postacie%20graczy/Arameia.md)- kaczka
 [Druna](../postacie%20graczy/Druna.md)- bizon
 
 W nocy śnią się nam koszmary. Motywy agonii, śmierci itd. 
@@ -53,7 +53,5 @@ Po równinie wędruje [Plemię Aludra](../organizacje/Plemi%C4%99%20Aludra.md)- 
 
 Na wschodzie znajduje się [Punkt Burzy](../lokacje/Punkt%20Burzy.md)- miejsce niesamowicie niebezpieczne, aczkolwiek ładne.
 
-Wiadomości też wspominają o monstrum [Nactinis](../NPC/Nactinis.md), które nawiedza równinę.
-
-[Maditojas](../NPC/Maditojas.md)- łowca nocny, możliwe, że niewidzialny
+Wiadomości też wspominają o monstrum [Naktinis Maditojas](../Potwory/Naktinis%20Maditojas.md), które nawiedza równinę. łowca nocny, możliwe, że niewidzialny
 
