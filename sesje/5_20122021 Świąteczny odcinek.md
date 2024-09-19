@@ -18,7 +18,7 @@ Gar jajecznicy. Idziemy do [Świątyni Nelene](../lokacje/%C5%9Awi%C4%85tynia%20
 ##### ⚔ Zielonkawe ogry
 Poza tym małym problemem wracamy na spokojnie i odnajdujemy Kersta. Przy oddawaniu gałęzi jego wóz zamienia się w sanie, a on w św. Mikołaja i daje nam prezenty:
 - Czerwona skarpetka niekończącego się węgla – [Zaufanie](../postacie%20graczy/Zaufanie.md)
-- Kula śnieżna ze smokiem (wydostaje się z niej śnieg) – [Arameja](../postacie%20graczy/Arameja.md)
+- Kula śnieżna ze smokiem (wydostaje się z niej śnieg) – [Arameia](../postacie%20graczy/Arameia.md)
 - 3 nakręcane żołnierzyki – [Ashtar](../postacie%20graczy/Ashtar.md)
 - Sweter świąteczny z reniferem – zabezpiecza przed wyziębieniem spowodowanym zimnem – [Solaris](../postacie%20graczy/Solaris.md)
 - Pudełko magicznych zapałek – [Varudir](../postacie%20graczy/Varudir.md)
@@ -27,4 +27,4 @@ Po tej interakcji jemy zupę w [Starej Żabie](../lokacje/Stara%20%C5%BBaba.md).
 
 [Varudir](../postacie%20graczy/Varudir.md) uciekł z klanu, bo został zaatakowany. Szuka pewnego artysty, bo chce napisać książkę i szuka inspiracji. [Zaufanie](../postacie%20graczy/Zaufanie.md) musiał szybko przemieścić się z poprzedniego miasta. Miał coś zrobić (nie może powiedzieć co). Przyszli ludzie, zabili mu znajomych. Mogą go dalej ścigać.
 
-[Solaris](../postacie%20graczy/Solaris.md) i [Varudir](../postacie%20graczy/Varudir.md) się spili. Następnego dnia rano [Zaufanie](../postacie%20graczy/Zaufanie.md), [Ashtar](../postacie%20graczy/Ashtar.md) i [Arameja](../postacie%20graczy/Arameja.md) poszli na [Rynek w Tursel](../lokacje/Rynek%20w%20Tursel.md) i kupili konia i gęś – [Baśkę](../zwierz%C4%85tka/Ba%C5%9Bka.md) i [Buczka](../zwierz%C4%85tka/Buczek.md).
+[Solaris](../postacie%20graczy/Solaris.md) i [Varudir](../postacie%20graczy/Varudir.md) się spili. Następnego dnia rano [Zaufanie](../postacie%20graczy/Zaufanie.md), [Ashtar](../postacie%20graczy/Ashtar.md) i [Arameia](../postacie%20graczy/Arameia.md) poszli na [Rynek w Tursel](../lokacje/Rynek%20w%20Tursel.md) i kupili konia i gęś – [Baśkę](../zwierz%C4%85tka/Ba%C5%9Bka.md) i [Buczka](../zwierz%C4%85tka/Buczek.md).
