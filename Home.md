@@ -1,6 +1,6 @@
 Kontynent [Etea](./lokacje/Etea.md)
 ## Postacie graczy
-- [Arameja](./postacie%20graczy/Arameja.md)
+- [Arameia](./postacie%20graczy/Arameia.md)
 - [Ashtar](./postacie%20graczy/Ashtar.md)
 - [Druna](./postacie%20graczy/Druna.md)
 - [Solaris](./postacie%20graczy/Solaris.md)
@@ -17,13 +17,14 @@ Kontynent [Etea](./lokacje/Etea.md)
 - [Dębowy Gaj](./lokacje/D%C4%99bowy%20Gaj.md)
 - [Perestrand](./lokacje/Perestrand.md)
 - [Ruiny Świątyni Alanis](./lokacje/Ruiny%20%C5%9Awi%C4%85tyni%20Alanis.md)
-- [Wielka Równina](./lokacje/Wielka%20R%C3%B3wnina.md)
 - [Tursel](./lokacje/Tursel.md)
+- [Wielka Równina](./lokacje/Wielka%20R%C3%B3wnina.md)
 
 ## Sprawy niedokończone
 [Questy](./Questy.md)
 
 ## Sesje
+- [34_16092024 Zmierzch nad Wielką Równiną](./sesje/34_16092024%20Zmierzch%20nad%20Wielk%C4%85%20R%C3%B3wnin%C4%85.md)
 - [33_06072024 Krew Krolka, Koszmary Gaju](./sesje/33_06072024%20Krew%20Krolka,%20Koszmary%20Gaju.md)
 - [32_26052024 Super Reaktywna Akcja Kałowo Anty-kłusownicza](./sesje/32_26052024%20Super%20Reaktywna%20Akcja%20Ka%C5%82owo%20Anty-k%C5%82usownicza.md)
 - [31_07042024 Serce Bestii i Wóz Handlarzy](./sesje/31_07042024%20Serce%20Bestii%20i%20W%C3%B3z%20Handlarzy.md)
@@ -32,8 +33,8 @@ Kontynent [Etea](./lokacje/Etea.md)
 - [28_25112023 Operacja Rybia Menda](./sesje/28_25112023%20Operacja%20Rybia%20Menda.md)
 - [27_05112023 Teleportacje i pakt z Ignarukiem](./sesje/27_05112023%20Teleportacje%20i%20pakt%20z%20Ignarukiem.md)
 - [26_26092023 Celebracje u Veppera](./sesje/26_26092023%20Celebracje%20u%20Veppera.md)
-- [25_23042023 Kultyści](./sesje/25_23042023%20Kulty%C5%9Bci.md)
 - [24_23042023 Tornado Ognia i Dusz](./sesje/24_23042023%20Tornado%20Ognia%20i%20Dusz.md)
+- [25_23042023 Kultyści](./sesje/25_23042023%20Kulty%C5%9Bci.md)
 - [23_12032023 W środku dzielnicy](./sesje/23_12032023%20W%20%C5%9Brodku%20dzielnicy.md)
 - [22_08012023 Przerwanie rytuału](./sesje/22_08012023%20Przerwanie%20rytua%C5%82u.md)
 - [21_28122022 Przygotowanie do wkroczenia do dzielnicy](./sesje/21_28122022%20Przygotowanie%20do%20wkroczenia%20do%20dzielnicy.md)
@@ -62,19 +63,19 @@ Kontynent [Etea](./lokacje/Etea.md)
 | [Cenas](./bogowie/Cenas.md)     | wiedza, tworzenie                     |
 | [Chirva](./bogowie/Chirva.md)   | smoki                                 |
 | [Danja](./bogowie/Danja.md)     | muzyka                                |
-| [Dernos](./bogowie/Dernos.md)   | demon, śmierć, rozkład                |
-| [Gloria](./bogowie/Gloria.md)   | zwycięstwo                            |
 | [Etunia](./bogowie/Etunia.md)   | magia, wiedza tajemna                 |
+| [Dernos](./bogowie/Dernos.md)   | demon, śmierć, rozkład                |
 | [Gidrec](./bogowie/Gidrec.md)   | krasnoludy                            |
-| [Ignaruk](./bogowie/Ignaruk.md) | demon, ogień                          |
+| [Gloria](./bogowie/Gloria.md)   | zwycięstwo                            |
 | [Grazdia](./bogowie/Grazdia.md) | ziemia, bogactwo, majątek, kapitalizm |
-| [Mava](./bogowie/Mava.md)       | ciemność                              |
+| [Ignaruk](./bogowie/Ignaruk.md) | demon, ogień                          |
 | [Mentia](./bogowie/Mentia.md)   | światło                               |
+| [Mava](./bogowie/Mava.md)       | ciemność                              |
 | [Nelene](./bogowie/Nelene.md)   | życie, natura                         |
 | [Nolios](./bogowie/Nolios.md)   | woda                                  |
 | [Ostus](./bogowie/Ostus.md)     | powietrze, wolność                    |
-| [Sinir](./bogowie/Sinir.md)     | ogień, rzemieślnictwo                 |
 | [Solis](./bogowie/Solis.md)     | słońce, nieszczęśliwa miłość          |
+| [Sinir](./bogowie/Sinir.md)     | ogień, rzemieślnictwo                 |
 | [Votyx](./bogowie/Votyx.md)     | śmierć                                |
 | [Wydon](./bogowie/Wydon.md)     | księżyc, nieszczęśliwa miłość         |
 
