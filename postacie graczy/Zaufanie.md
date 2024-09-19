@@ -12,6 +12,7 @@ Szary tiefling z czarnymi końcówkami dłoni i rogów. Krótkie czarne włosy, 
 ## Wiadomości
 - matka- nie żyje, umarła na smoczą ospę
 - Biedne dość krótkie dzieciństwo
+- zaadoptował dziecko o imieniu [Paweł](../NPC/Pawe%C5%82.md) wraz z [Ashtarem](./Ashtar.md).  
 
 
 ## Lore
