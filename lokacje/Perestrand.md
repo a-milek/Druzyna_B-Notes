@@ -53,6 +53,7 @@ Nagle morze się wzburza. Z wiru wodnego wynurza się statek. Na masztach ma ró
 - [Lord Vepper](../NPC/Lord%20Vepper.md)
 - [Natari](../NPC/Natari.md)
 - [paladyn Tomas](../NPC/paladyn%20Tomas.md)
+- [Paweł](../NPC/Pawe%C5%82.md)
 - [Rybak](../NPC/Rybak.md)
 - [Szymon](../NPC/Szymon.md)
 - [Toduzeh](../NPC/Toduzeh.md)
