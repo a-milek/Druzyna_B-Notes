@@ -19,13 +19,13 @@ Dojeżdżamy do słupa, okazuje się drogowskazem na rozdrożach. 
 ###### ↑ [Snitin](../lokacje/Snitin.md) 
 ###### → [Chasstree](../lokacje/Chasstree.md) 
 
-Spotykamy na rozdrożu również handlarza. Handluje on kamieniami. Nazywa się [Gundraur](../NPC/Gundraur.md). Mówi nam, że w [Killrock](../lokacje/Killrock.md) mieszka rzemieślnik [Lodrig Blessedmaker](../NPC/Lodrig%20Blessedmaker.md), którzy tworzy rzeźby z kamienia. [Ashtar](../postacie%20graczy/Ashtar.md) kupuje od niego kilof i dostaje ułamaną cegłę. Mówi nam, że miał kiedyś przyjaciela cegłę jak był młodszy. [Gundraur](../NPC/Gundraur.md) mówi o tym, że bandyci poruszają się po [Cmentarzysku Mieczy](../lokacje/Cmentarz%20Mieczy.md). Plotki mówią o tym, że znajdują się tam jakieś artefakty.  
+Na rozdrożu spotykamy również handlarza. Handluje on kamieniami. Nazywa się [Gundraur](../NPC/Gundraur.md). Mówi nam, że w [Killrock](../lokacje/Killrock.md) mieszka rzemieślnik [Lodrig Blessedmaker](../NPC/Lodrig%20Blessedmaker.md), którzy tworzy rzeźby z kamienia. [Ashtar](../postacie%20graczy/Ashtar.md) kupuje od niego kilof i dostaje ułamaną cegłę. Mówi nam, że miał kiedyś przyjaciela cegłę jak był młodszy. [Gundraur](../NPC/Gundraur.md) mówi o tym, że bandyci poruszają się po [Cmentarzysku Mieczy](../lokacje/Cmentarz%20Mieczy.md). Plotki mówią o tym, że znajdują się tam jakieś artefakty.  Tłumaczy nam również, że nieruchome postacie to strachy na wróble. 
 
 Na drodze prowadzącej do [Snitin](../lokacje/Snitin.md) widać świeże ślady stóp, kół i czegoś ciągniętego po ziemi. Ruszamy dalej.  
 
 Niedaleko spotykamy rodzinę uciekającą z wioski [Chasstree](../lokacje/Chasstree.md). Okazało się, że to wioska, którą "zaczadziliśmy" dla druidów. Dwójka rodziców, trójka dzieci. Wszyscy są chorzy, rzygają dalej niż widzą itd. [Solaris](../postacie%20graczy/Solaris.md) leczy ich chorobę zaklęciem Lesser Restoration. Dziękują nam. Ruszamy dalej. 
 
-Powoli zbliża się zmrok. Na horyzoncie ukazuje się mała wioska- domki. Każdy z nich na wejściu ma lampion. Większość z nich jest zapalonych. Zmierzamy na rynek. Niedaleko niego jest biały dwupiętrowy dom z nowiutkim szyldem z kuflem piwa. W oknach widać, że budynek jest zapełniony. Rodzina, którą spotkaliśmy po drodze, zmierza tam, ale po chwili wychodzi.  
+Powoli zbliża się zmrok. Na horyzoncie ukazuje się mała wioska z białymi domkami. Każdy z nich na wejściu ma lampion. Większość z nich jest zapalonych. Zmierzamy na rynek. Niedaleko niego jest biały dwupiętrowy dom z nowiutkim szyldem z kuflem piwa. W oknach widać, że budynek jest zapełniony. Rodzina, którą spotkaliśmy po drodze, zmierza tam, ale po chwili wychodzi.  
 
 Na placu stoi jeszcze figura z kamienia przedstawiająca boginię [Nelene](../bogowie/Nelene.md).  
 
@@ -34,7 +34,7 @@ Ludzie generalnie przypatrują się nam krzywo, jedyny gość, który wygląda w
 [Naktinisy](../Potwory/Naktinis%20Maditojas.md)- zwierz, ma ciało dużego kota. Zamiast kociego ogona ma węże. Duże szpony, pysk psa i dwie żuwaczki, żółte oczy, czarne futro.  
 Wieś nazywa się [Mohac](../lokacje/Mohac.md). 
 
-Dojeżdżamy do [chatki Nisiry](../lokacje/Dom%20Nisyry.md), kryształ płoszy jej zwierzęta, po długim przekonywaniu pozwala nam zostać. 
+Dojeżdżamy do [chatki Nisiry](../lokacje/Dom%20Nisyry.md), kryształ płoszy jej zwierzęta. Po długim przekonywaniu pozwala nam zostać. 
 
 [Aramei](../postacie%20graczy/Arameia.md), [Ashtar](../postacie%20graczy/Ashtar.md) i [Zaufanie](../postacie%20graczy/Zaufanie.md) idą z nią do środka, a [Solaris](../postacie%20graczy/Solaris.md) i [Druna](../postacie%20graczy/Druna.md) zostają na wozie go pilnować. 
 
