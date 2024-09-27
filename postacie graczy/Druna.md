@@ -17,3 +17,4 @@ Grube blond dredy
 - Dała podrobione rzeczy na stragan mamy Toma. Spowodowało to wyeksmitowanie Toma z Pipidełka
 ## Lore
 
+>Odeszła z Pipidełka sama po tym co się stało z mamą Toma. Nikt nie wie że Druna tak naprawde jest winna za to co się stało, wywalili Matkę Toma a Tom poszedł wraz z nią.
