@@ -6,3 +6,6 @@ Nie lubią obcych.
 
 ## Wiadomości
 - Ma swój sposób na czczenie cyklu życia i śmierci
+- Jeżdżą na sześcionożnych bizonach
+- zakryte twarze, nie mówią dużo, nie widać żadnych cech szczególnych
+- usypianie?
