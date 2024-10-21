@@ -16,6 +16,7 @@ Po równinie wędruje [Plemię Aludra](../organizacje/Plemi%C4%99%20Aludra.md)- 
 - [Cmentarz Mieczy](./Cmentarz%20Mieczy.md)
 - [Jezioro Vendarn](./Jezioro%20Vendarn.md)
 - [Mohac](./Mohac.md)
+- [Norov](./Norov.md)
 - [Punkt Burzy](./Punkt%20Burzy.md)
 - [Snitin](./Snitin.md)
 
