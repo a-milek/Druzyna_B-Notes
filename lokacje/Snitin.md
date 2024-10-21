@@ -24,5 +24,6 @@ Dobre piwo- Żytnie Równinne
 - [Denis](../NPC/Denis.md)
 - [Igniros](../NPC/Igniros.md)
 - [Poszukiwany gość](../NPC/Poszukiwany%20go%C5%9B%C4%87.md)
+- [Tarron Weiser](../NPC/Tarron%20Weiser.md)
 - [Tilman](../NPC/Tilman.md)
 
