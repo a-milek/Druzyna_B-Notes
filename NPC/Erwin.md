@@ -16,6 +16,7 @@ rudy piegowaty chłopiec w roboczych ubraniach.
 
 ## Występowanie
 - [35_26092024 Nocna Furia](../sesje/35_26092024%20Nocna%20Furia.md)
+- [36_20102024 Burza i Beczki Piwa](../sesje/36_20102024%20Burza%20i%20Beczki%20Piwa.md)
 
 
 
