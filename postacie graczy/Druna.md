@@ -15,6 +15,7 @@ Grube blond dredy
 - Powiązani ze [Smarnecka](../organizacje/Smarnecka.md)
 - mieszkała w [Pipidełku](../lokacje/Pipide%C5%82ko.md).
 - Dała podrobione rzeczy na stragan mamy Toma. Spowodowało to wyeksmitowanie Toma z Pipidełka
+- Nie ufa policji
 ## Lore
 
 >Odeszła z Pipidełka sama po tym co się stało z mamą Toma. Nikt nie wie że Druna tak naprawde jest winna za to co się stało, wywalili Matkę Toma a Tom poszedł wraz z nią.
