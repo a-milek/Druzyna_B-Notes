@@ -10,31 +10,33 @@ Kontynent [Etea](./lokacje/Etea.md)
 ## Zwierzęta
 - [Baśka](./zwierz%C4%85tka/Ba%C5%9Bka.md)
 - [Bielinek](./zwierz%C4%85tka/Bielinek.md)
-- [Buczek](./zwierz%C4%85tka/Buczek.md)
-- [Brykiet](./zwierz%C4%85tka/Brykiet.md)
 - [Bonsai](./zwierz%C4%85tka/Bonsai.md)
+- [Brykiet](./zwierz%C4%85tka/Brykiet.md)
+- [Buczek](./zwierz%C4%85tka/Buczek.md)
 
 ## [Questy](./Questy.md)
 
 ## Lokalizacje
 - [Anana Serin](./lokacje/Anana%20Serin.md)
-- [Gadag](./lokacje/Gadag.md)
 - [Dębowy Gaj](./lokacje/D%C4%99bowy%20Gaj.md)
+- [Gadag](./lokacje/Gadag.md)
 - [Irmen](./lokacje/Irmen.md)
-- [Mohac](./lokacje/Mohac.md)
 - [Millstone](./lokacje/Millstone.md)
-- [Perestrand](./lokacje/Perestrand.md)
+- [Mohac](./lokacje/Mohac.md)
 - [Nimbadir](./lokacje/Nimbadir.md)
+- [Perestrand](./lokacje/Perestrand.md)
 - [Poset](./lokacje/Poset.md)
 - [Ruiny Świątyni Alanis](./lokacje/Ruiny%20%C5%9Awi%C4%85tyni%20Alanis.md)
 - [Snitin](./lokacje/Snitin.md)
-- [Tursel](./lokacje/Tursel.md)
-- [Wielka Równina](./lokacje/Wielka%20R%C3%B3wnina.md)
 - [Tansan](./lokacje/Tansan.md)
+- [Tursel](./lokacje/Tursel.md)
 - [Vilden](./lokacje/Vilden.md)
+- [Wielka Równina](./lokacje/Wielka%20R%C3%B3wnina.md)
 - [Winwaard](./lokacje/Winwaard.md)
+- [Norov](./lokacje/Norov.md)
 
 ## Sesje
+- [36_20102024 Burza i Beczki Piwa](./sesje/36_20102024%20Burza%20i%20Beczki%20Piwa.md)
 - [35_26092024 Nocna Furia](./sesje/35_26092024%20Nocna%20Furia.md)
 - [34_16092024 Zmierzch nad Wielką Równiną](./sesje/34_16092024%20Zmierzch%20nad%20Wielk%C4%85%20R%C3%B3wnin%C4%85.md)
 - [33_06072024 Krew Krolka, Koszmary Gaju](./sesje/33_06072024%20Krew%20Krolka,%20Koszmary%20Gaju.md)
@@ -71,24 +73,24 @@ Kontynent [Etea](./lokacje/Etea.md)
 | File                            | Patronat                              |
 | ------------------------------- | ------------------------------------- |
 | [Alanis](./bogowie/Alanis.md)   | elfy, magia, fey                      |
+| [Biorr](./bogowie/Biorr.md)     | wojna                                 |
 | [Cenas](./bogowie/Cenas.md)     | wiedza, tworzenie                     |
 | [Chirva](./bogowie/Chirva.md)   | smoki                                 |
-| [Etunia](./bogowie/Etunia.md)   | magia, wiedza tajemna                 |
-| [Biorr](./bogowie/Biorr.md)     | wojna                                 |
-| [Gloria](./bogowie/Gloria.md)   | zwycięstwo                            |
 | [Danja](./bogowie/Danja.md)     | muzyka                                |
-| [Grazdia](./bogowie/Grazdia.md) | ziemia, bogactwo, majątek, kapitalizm |
-| [Ignaruk](./bogowie/Ignaruk.md) | demon, ogień                          |
-| [Gidrec](./bogowie/Gidrec.md)   | krasnoludy                            |
 | [Dernos](./bogowie/Dernos.md)   | demon, śmierć, rozkład                |
-| [Nolios](./bogowie/Nolios.md)   | woda                                  |
-| [Mentia](./bogowie/Mentia.md)   | światło                               |
+| [Etunia](./bogowie/Etunia.md)   | magia, wiedza tajemna                 |
+| [Gidrec](./bogowie/Gidrec.md)   | krasnoludy                            |
+| [Gloria](./bogowie/Gloria.md)   | zwycięstwo                            |
+| [Ignaruk](./bogowie/Ignaruk.md) | demon, ogień                          |
+| [Grazdia](./bogowie/Grazdia.md) | ziemia, bogactwo, majątek, kapitalizm |
 | [Mava](./bogowie/Mava.md)       | ciemność                              |
+| [Mentia](./bogowie/Mentia.md)   | światło                               |
+| [Nelene](./bogowie/Nelene.md)   | życie, natura                         |
+| [Nolios](./bogowie/Nolios.md)   | woda                                  |
 | [Ostus](./bogowie/Ostus.md)     | powietrze, wolność                    |
 | [Solis](./bogowie/Solis.md)     | słońce, nieszczęśliwa miłość          |
-| [Wydon](./bogowie/Wydon.md)     | księżyc, nieszczęśliwa miłość         |
-| [Votyx](./bogowie/Votyx.md)     | śmierć                                |
-| [Nelene](./bogowie/Nelene.md)   | życie, natura                         |
 | [Sinir](./bogowie/Sinir.md)     | ogień, rzemieślnictwo                 |
+| [Votyx](./bogowie/Votyx.md)     | śmierć                                |
+| [Wydon](./bogowie/Wydon.md)     | księżyc, nieszczęśliwa miłość         |
 
 
