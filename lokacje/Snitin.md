@@ -18,7 +18,7 @@ Dobre piwo- Żytnie Równinne
 
 ## Postacie
 - [Alchemiczka Sophia](../NPC/Alchemiczka%20Sophia.md)
-- [Askal- Wielki Kupiec](../NPC/Askal-%20Wielki%20Kupiec.md)
+- [Ascal- Wielki Kupiec](../NPC/Ascal-%20Wielki%20Kupiec.md)
 - [Christina](../NPC/Christina.md)
 - [Claus](../NPC/Claus.md)
 - [Denis](../NPC/Denis.md)
