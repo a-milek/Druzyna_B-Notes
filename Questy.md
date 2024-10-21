@@ -3,7 +3,7 @@
 - [ ] Zabrać [Ignirosa](./NPC/Igniros.md) do [Killrock](./lokacje/Killrock.md)
 - [ ] Kupić nowy buzdygan od [Ignirosa](./NPC/Igniros.md)
 #### Snitin
-- [ ] Dowiedzieć się, kim jest [Poszukiwany gość](./NPC/Poszukiwany%20go%C5%9B%C4%87.md) z tablicy ogłoszeń w [Snitin](./lokacje/Snitin.md)
+- [ ] Dowiedzieć się, kim jest [Łysy poszukiwany gość](./NPC/%C5%81ysy%20poszukiwany%20go%C5%9B%C4%87.md) z tablicy ogłoszeń w [Snitin](./lokacje/Snitin.md)
 	- [ ] Porozmawiać z [Toverelem](./NPC/Toverel.md)
 
 #### Inne
