@@ -9,3 +9,4 @@ Nie lubią obcych.
 - Jeżdżą na sześcionożnych bizonach
 - zakryte twarze, nie mówią dużo, nie widać żadnych cech szczególnych
 - usypianie?
+- robią biznes w [Norov](../lokacje/Norov.md)
