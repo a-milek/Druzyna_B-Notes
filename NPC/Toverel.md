@@ -9,7 +9,7 @@ tags:
 ## Wygląd
 
 ## Wiadomości
-- rozmawiał z [Łysym z ogłoszenia](./Poszukiwany%20go%C5%9B%C4%87.md). Pobity
+- rozmawiał z [Łysym z ogłoszenia](./%C5%81ysy%20poszukiwany%20go%C5%9B%C4%87.md). Pobity
 - Mieszka dwie chatki od pseudo tawerny
 - Nie powie nam pewnie dużo
 
