@@ -3,7 +3,8 @@ typ: location
 kampania: Drużyna B
 tags:
   - city
-lokalizacja: 
+lokalizacja:
+  - "[Wielka Równina](Wielka%20R%C3%B3wnina.md)"
 ---
 
 ## Lokalizacje
