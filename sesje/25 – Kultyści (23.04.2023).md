@@ -20,6 +20,6 @@ W Melinie ratujemy małego chłopaka. Na imie mu [Adam](../NPC/Adam.md).
 Idziemy ciemnym murowanym korytarzem. Docieramy do pokoju w kształcie półokręgu. Na ścianach znajduje się 4 drzwi. W powietrzu unosi się zapach ścieków i odchodów. Otwieramy jedyne drzwi które są zamknięte. Idziemy w głąb, na ścianach narysowane są esy floresy. Idziemy dużą kamienną rurą. Słyszymy odgłosy lecącej wody. Na środku dużego cylindrycznego pomieszczenia stoją dwie postacie.
 ##### ⚔ 2 Kultystów 
 Jeden z nich umiera przez fire bolta. Drugi kultysta to Fire Genasi w czarnej szacie którego dobrze znamy- [Czarny Płomień](../NPC/Czarny%20P%C5%82omie%C5%84.md). Pojawia się również Czteronożna postać- Centaur- ma ubraną zbroję końską, złoty septum i tatuaże na całym ciele razem z płonącymi oczami
-Podczas walki z [Czarnym Płomieniem](../NPC/Czarny%20P%C5%82omie%C5%84.md) po jednym dosyć solidnym atakiem w twarz na ziemię upada maska z demonicznymi runami. To co wczesniej wyglądało nam na bliznę na twarzy Czarnego płomienia okazało się pęknięciem w masce. Kultyści również próbowali przywoływać ogromnego [Demosmoka](../NPC/Demosmok.md)
+Podczas walki z [Czarnym Płomieniem](../NPC/Czarny%20P%C5%82omie%C5%84.md) po jednym dosyć solidnym atakiem w twarz na ziemię upada maska z demonicznymi runami. To co wczesniej wyglądało nam na bliznę na twarzy Czarnego płomienia okazało się pęknięciem w masce. Kultyści również próbowali przywoływać ogromnego [Demosmoka](../Potwory/Demosmok.md)
 
 Zbieramy rzeczy- magiczny topór, kiścień i maskę
